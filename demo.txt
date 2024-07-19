@@ -1,1 +1,11 @@
 hi welcome to class
+add a third line from local path sys
+f
+
+
+[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+f
+[A[A[A[A[C[C[C[C[C[B[B[B[B[BF
+this is fourth line from the local sys
+f
+hi welcome to devops site
